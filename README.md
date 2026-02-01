@@ -78,7 +78,7 @@ Swachh Saathi aims to streamline this process by organizing citizen complaints, 
 
 ## Live Application
 
-- **Frontend URL:** https://swachh-2.vercel.app  
+- **Frontend URL:** https://swachh.netlify.app/
 - **Backend URL:** https://swachh-saathi.onrender.com  
 
 ---
